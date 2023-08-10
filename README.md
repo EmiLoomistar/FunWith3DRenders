@@ -1,2 +1,2 @@
 # FunWith3DRenders
-basic 3D software based graphics
+Some basic 3D software based graphics (hopefully funny)
